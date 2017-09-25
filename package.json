@@ -1,7 +1,7 @@
 {
   "name": "redux-rollbar-telemetry-middleware",
   "version": "0.1.0",
-  "description": "Middleware that add redux state to the payload of Rollbar logs",
+  "description": "Middleware that helps to add redux action to the Rollbar.Telemetry",
   "main": "lib/redux-rollbar-telemetry-middleware.js",
   "scripts": {
     "test": "jest src",
@@ -18,8 +18,7 @@
     "rollbar",
     "redux",
     "middleware",
-    "log",
-    "state",
+    "telemetry",
     "react",
     "syft"
   ],
