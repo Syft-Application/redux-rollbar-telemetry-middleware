@@ -2,6 +2,8 @@
 
 Middleware that helps to add redux action to the [Rollbar.Telemetry](https://rollbar.com/docs/notifier/rollbar.js/#telemetry)
 
+**Note:** `lib/` is in repo until we publish package on npm
+
 ### Usage
 
 ```
