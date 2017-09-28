@@ -1,6 +1,6 @@
 {
   "name": "redux-rollbar-telemetry-middleware",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Middleware that helps to add redux action to the Rollbar.Telemetry",
   "main": "lib/redux-rollbar-telemetry-middleware.js",
   "scripts": {
